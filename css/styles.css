@@ -132,7 +132,7 @@ input, select {
   border-bottom: 1px solid #DDD;
   align-items: center;
   transition: .3s;
-  border-radius: 15px;
+  border-radius: 5px;
 }
 .todo h3 {
   flex: 1;
